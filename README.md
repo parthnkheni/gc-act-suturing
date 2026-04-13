@@ -43,14 +43,6 @@ evaluation.
   <img src="assets/error_summary.png" alt="Error summary" width="70%">
 </p>
 
-### Cross-tissue generalization (tissue 6 held out)
-
-| Approach                                | KT (mm)   | NT (mm)   |
-|-----------------------------------------|:---------:|:---------:|
-| GC-ACT (backbone exposed to tissue 6)   | **0.904** | **0.853** |
-
----
-
 ## Visual Validation
 
 Predicted (red) vs. ground-truth (blue) end-effector trajectories on tissue 7:
