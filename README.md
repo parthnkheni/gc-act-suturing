@@ -48,9 +48,6 @@ evaluation.
 | Approach                                | KT (mm)   | NT (mm)   |
 |-----------------------------------------|:---------:|:---------:|
 | GC-ACT (backbone exposed to tissue 6)   | **0.904** | **0.853** |
-| v6 from-scratch (truly OOD)             | 4.795     | 6.074     |
-
-OOD performance is fundamentally limited by data diversity (7 training tissues).
 
 ---
 
