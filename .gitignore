@@ -39,6 +39,7 @@ env/
 *.jpg
 *.jpeg
 *.pdf
+!assets/**
 
 logs/
 runs/
