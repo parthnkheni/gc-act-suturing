@@ -52,11 +52,6 @@ Predicted (red) vs. ground-truth (blue) end-effector trajectories on tissue 7:
   <img src="assets/validation_nt.png" alt="Needle Throw" width="32%">
   <img src="assets/validation_kt.png" alt="Knot Tying" width="32%">
 </p>
-
-<p align="center">
-  <img src="assets/eval_overview.png" alt="Offline evaluation across all 3 subtasks" width="85%">
-</p>
-
 ---
 
 ## Repository Layout
