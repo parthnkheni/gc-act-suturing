@@ -39,9 +39,7 @@ evaluation.
 | Needle Throw     | 1.242          | 0.910                | **0.803**        |
 | Knot Tying       | 1.131          | 0.959                | **0.707**        |
 
-<p align="center">
-  <img src="assets/error_summary.png" alt="Error summary" width="70%">
-</p>
+---
 
 ## Visual Validation
 
