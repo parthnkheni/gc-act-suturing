@@ -133,8 +133,3 @@ JIGSAWS-style gesture labels (G1-G16) for NT and KT across all 10 tissues
 Senior Design Team 23, Boston University &mdash; **Parth Kheni**, **Swas**, **Lauren**.
 Deployment target: JHU dVRK Si.
 
----
-
-## Status
-
-All training and offline evaluation complete. Next milestone: real-robot trials at JHU.
