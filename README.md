@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/setup.png" alt="Suturing setup" width="85%">
+  <img src="assets/setup.jpg" alt="Suturing setup" width="85%">
 </p>
 
 ---
