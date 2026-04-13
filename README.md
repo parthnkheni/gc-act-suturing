@@ -54,7 +54,7 @@ Predicted (red) vs. ground-truth (blue) end-effector trajectories on tissue 7:
 </p>
 
 <p align="center">
-  <img src="assets/traj3d_nt.png" alt="3D trajectory" width="55%">
+  <img src="assets/eval_overview.png" alt="Offline evaluation across all 3 subtasks" width="85%">
 </p>
 
 ---
