@@ -130,6 +130,6 @@ JIGSAWS-style gesture labels (G1-G16) for NT and KT across all 10 tissues
 
 ## Team
 
-Senior Design Team 23, Boston University &mdash; **Parth Kheni**, **Swas**, **Lauren**.
+Senior Design Team 23, Boston University &mdash; **Parth Kheni**, **Swas Shiv**, **Lauren Tran**.
 Deployment target: JHU dVRK Si.
 
